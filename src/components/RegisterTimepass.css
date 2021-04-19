@@ -1,0 +1,122 @@
+.Registertimepass__container{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.Registertimepass__row{
+    height: 100vh;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.Registertimepass__svg{
+    margin-top: 0px !important;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.Registertimepass__image{
+    width: 650px !important;
+    height: auto;
+}
+.Registertimepass__heading{
+    margin-top: 150px;
+    margin-left: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-size:36px;
+    font-weight: 600;
+    color:#000080;
+}
+.Registertimepass__svg-column2{
+    background-color: #bbe1fa;
+}
+.Registertimepass__Form-main{
+    margin-top: 60px;
+}
+.Registertimepass__Form{
+    margin-top: 20px;
+}
+.Registertimepass__property{
+    margin-left: 35px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: #000080;
+}
+.Registertimepass__activity{
+    width: 50% !important;
+    height: calc(1.2em + .75rem + 6px) !important;
+    border: none !important;
+    background-color: #bbe1fa !important;
+    margin-left: 20px !important;
+    margin-top: -8px !important;
+    font-size: 16px !important;
+    font-family: 'Poppins', sans-serif !important;
+    color: #000000;
+}
+.Registertimepass__Time{
+    width: 20% !important;
+    height: calc(1.2em + .75rem + 6px) !important;
+    border: none !important;
+    background-color: #bbe1fa !important;
+    margin-left: 20px !important;
+    margin-top: -8px !important;
+    font-size: 16px !important;
+    font-family: 'Poppins', sans-serif !important;
+    color: #000000;
+}
+.Registertimepass__Submit-row{
+    margin-top: 30px;
+    align-items: center !important;
+    justify-content: center !important;
+    
+}
+.Registertimepass__Submit-Button{
+   color: #FFFFFF;
+   background-color: #000080;
+   border-radius: 20px;
+   width: 20%;
+   margin-bottom: 50px;
+}
+/*For small devices*/
+@media screen and (max-width:576px){
+    .Registertimepass__image{
+        width: 360px !important;
+        height: auto;
+    }
+    .Registertimepass__heading{
+        font-size: 27px;
+        margin-top: 30px;
+        margin-left: 1rem;
+    }
+    .Registertimepass__Form-main{
+        margin-top: 20px;
+    }
+    .Registertimepass__property{
+        margin-left: 1.5rem;
+    }
+    .Registertimepass__Submit-Button{
+        width: 30%;
+    }
+    .Registertimepass__svg{
+        margin-top: 0px;
+        margin-left: 0px;
+        margin-top: 0px !important;
+    }
+}
+/*For small and medium devices*/
+@media(min-width: 576px) and (max-width: 800px){
+    .Registertimepass__image{
+        width: 335px !important;
+        height: auto;
+        margin-top: 70px !important;
+        margin-left: -30px;
+    }
+    .Registertimepass__Form-main{
+        margin-top: 20px;
+    }
+}
+/*For medium and large devices*/
+@media(min-width: 800px) and (max-width: 1200px){
+    .Registertimepass__image{
+        width: 500px !important;
+        height: auto;
+        margin-top: 20px !important;
+    }
+}
