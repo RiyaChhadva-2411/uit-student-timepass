@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/uit-student-timepass/static/css/main.ad2d289a.chunk.css",
+    "main.js": "/uit-student-timepass/static/js/main.2c22d86e.chunk.js",
+    "main.js.map": "/uit-student-timepass/static/js/main.2c22d86e.chunk.js.map",
+    "runtime-main.js": "/uit-student-timepass/static/js/runtime-main.8381fef4.js",
+    "runtime-main.js.map": "/uit-student-timepass/static/js/runtime-main.8381fef4.js.map",
+    "static/js/2.c1d6f3d1.chunk.js": "/uit-student-timepass/static/js/2.c1d6f3d1.chunk.js",
+    "static/js/2.c1d6f3d1.chunk.js.map": "/uit-student-timepass/static/js/2.c1d6f3d1.chunk.js.map",
+    "index.html": "/uit-student-timepass/index.html",
+    "static/css/main.ad2d289a.chunk.css.map": "/uit-student-timepass/static/css/main.ad2d289a.chunk.css.map",
+    "static/js/2.c1d6f3d1.chunk.js.LICENSE.txt": "/uit-student-timepass/static/js/2.c1d6f3d1.chunk.js.LICENSE.txt",
+    "static/media/studenttime.c4b0384d.jpg": "/uit-student-timepass/static/media/studenttime.c4b0384d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8381fef4.js",
+    "static/js/2.c1d6f3d1.chunk.js",
+    "static/css/main.ad2d289a.chunk.css",
+    "static/js/main.2c22d86e.chunk.js"
+  ]
+}
